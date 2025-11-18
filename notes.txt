@@ -1,0 +1,11 @@
+Manager login
+Email: gg_boss@fitness.dk
+Pass: asdfQWER
+
+Trainer
+Email: gg_m@fit.dk
+Pass: aQ
+
+Client
+Email: gg_c1@fit.dk
+Pass: aA
